@@ -16,16 +16,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0103.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0104.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0105.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -36,32 +26,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0107.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0108.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0109.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0110.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0111.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0112.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -81,22 +46,97 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0116.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0117.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0118.html</loc>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0119.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0119.html</loc>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/guide-001-57vfd4.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/review-002-wyuqtc.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0103.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0104.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0107.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0108.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0109.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0111.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0112.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0116.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260719-0118.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -167,51 +207,6 @@
   </url>
   <url>
     <loc>https://yeonnam-room-note.namanavi.com/posts/gemini-coverage-20260722-0429.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/guide-001-57vfd4.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/juice-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/juice-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/normal-1.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/normal-2.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/normal-3.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts/review-002-wyuqtc.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://yeonnam-room-note.namanavi.com/posts-2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
